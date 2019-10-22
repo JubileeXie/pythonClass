@@ -23,7 +23,7 @@ import math
 # Question 5: Count number of incomplete vector and raster layers
 
 
-# Question 6: provide a list of the layer names
+# Question 6: provide a list of the layer names.
 
 
 
